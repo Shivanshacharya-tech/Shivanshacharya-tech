@@ -20,7 +20,10 @@
 ### 👨‍💻 Programming & Development
 
 * HTML, CSS, JavaScript
-* Python
+* Python(Numpy, pandas, matplotlib, seaborn, flask, pygame, oops)
+* Data Analyst
+* generative ai(made chatbots using llms of gpt and gemini)
+* java(working on learning more about DSA and oops)
 * Basic React (learning phase)
 
 ### 🤖 Interests in Tech
