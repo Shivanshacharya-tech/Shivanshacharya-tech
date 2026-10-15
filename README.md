@@ -79,21 +79,6 @@ Internships and entry-level roles in **AI/ML** or **Data Analytics**, open-sourc
 
 
 
-🌐 Socials:
-Discord Instagram LinkedIn Pinterest X email
-
-💻 Tech Stack:
-CSS3 Java HTML5 Python AWS Azure FastAPI Flask OpenCV Streamlit Vite TailwindCSS AmazonDynamoDB MicrosoftSQLServer MySQL SQLite Matplotlib Keras NumPy Pandas PyTorch scikit-learn Scipy Plotly TensorFlow Git GitHub Docker Power Bi Portfolio
-
-
-
-
-
-
-
-
-
-
 
 ---
 
