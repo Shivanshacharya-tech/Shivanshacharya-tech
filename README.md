@@ -83,4 +83,19 @@ Data pipeline and prediction project combining Pandas, SQL, and a FastAPI-served
 
 ## Watch snake eating my github contributions:
 
-![snake gif](https://github.com/Shivanshacharya-tech/Shivanshacharya-tech/blob/output/github-contribution-grid-snake.svg)
+## 🐍 My GitHub Contributions
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Shivanshacharya-tech/Shivanshacharya-tech/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Shivanshacharya-tech/Shivanshacharya-tech/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Shivanshacharya-tech/Shivanshacharya-tech/output/github-snake.svg"
+  />
+</picture>
