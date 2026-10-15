@@ -1,4 +1,4 @@
-# Hi, I'm Shivansh Acharya ??
+# Hi, I'm Shivansh Acharya 
 
 **B.Tech student, AI & Data Science — Samrat Ashok Technological Institute, Vidisha (2024–2028)**
 
