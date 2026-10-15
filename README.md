@@ -77,6 +77,24 @@ Participated in hackathon events at **NIT Patna**, **IIIT Gwalior**, and **SGSIT
 
 Internships and entry-level roles in **AI/ML** or **Data Analytics**, open-source contribution, and hackathons.
 
+
+
+🌐 Socials:
+Discord Instagram LinkedIn Pinterest X email
+
+💻 Tech Stack:
+CSS3 Java HTML5 Python AWS Azure FastAPI Flask OpenCV Streamlit Vite TailwindCSS AmazonDynamoDB MicrosoftSQLServer MySQL SQLite Matplotlib Keras NumPy Pandas PyTorch scikit-learn Scipy Plotly TensorFlow Git GitHub Docker Power Bi Portfolio
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## Find me
