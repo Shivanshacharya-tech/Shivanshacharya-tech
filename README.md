@@ -79,3 +79,8 @@ Data pipeline and prediction project combining Pandas, SQL, and a FastAPI-served
 ## Find me
 
 [GitHub](https://github.com/Shivanshacharya-tech) · [LinkedIn](https://www.linkedin.com/in/shivansh-acharya-59131932a/)
+
+
+## Watch snake eating my github contributions:
+
+![snake gif](https://github.com/Shivanshacharya-tech/Shivanshacharya-tech/blob/output/github-contribution-grid-snake.svg)
