@@ -1,6 +1,55 @@
-# 💫 About Me:
-🔭 1. I'm currently working on<br><br>House Price Prediction using Machine Learning, AWS, Docker, and Flask. Also building AI-powered applications and data analytics projects.<br><br>👯 2. I'm looking to collaborate on<br><br>Data Analytics, Machine Learning, AI-powered applications, and Python backend development projects.<br><br>🤝 3. I'm looking for help with<br><br>Building scalable ML applications, deploying AI models to the cloud, and exploring real-world applications of AI and data science.<br><br>🌱 4. I'm currently learning<br><br>Advanced Data Analytics, SQL, Power BI, Machine Learning, Deep Learning, and Generative AI.<br><br>💬 5. Ask me about<br><br>Python, SQL, Data Analytics, Machine Learning, Deep Learning, FastAPI, Flask, Pandas, NumPy, and Data Visualization.<br><br>⚡ 6. Fun fact<br><br>I'm an AI & Data Science student who dreams of being a data scientist and explore and turn raw data into useful insights 
+# Hi, I'm Shivansh Acharya ??
 
+**B.Tech student, AI & Data Science — Samrat Ashok Technological Institute, Vidisha (2024–2028)**
+
+I build things end to end — data, models, backend, frontend, deployment — instead of stopping at tutorials. I like mixing solid engineering with things I'm actually into (anime/manga-inspired UI, for one). Long-term goal: work on AI products with real-world impact — ideas like food-quality and hunger-awareness platforms interest me — ideally with a route into Japan.
+
+?? India · ?? 3rd year, AI & Data Science · ???? Learning Japanese
+
+---
+
+## What I actually work with
+
+**Languages:** Python, Java, SQL, JavaScript
+
+**Data & ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn — regression, classification, tree-based models
+
+**Backend/Web:** FastAPI, Node.js, Express.js, React, HTML/CSS
+
+**Data & BI tools:** Power BI, Tableau, Snowflake
+
+**Other:** Docker, Git/GitHub
+
+**Also explored:** Flask, Pygame — smaller/early-stage work, not production projects yet.
+
+I'm actively learning deeper generative AI concepts (transformers, RAG, LLM APIs, chatbot integration with GPT/Gemini) — this is in-progress, not something I'd call production-ready yet.
+
+---
+
+## Projects
+
+### ??? Phishing Detection System
+FastAPI + ML classifier trained on the UCI Phishing Websites Dataset, with a full SOC-dashboard-style frontend and Dockerized deployment.
+- Built a dynamic 30-feature prediction form wired to a live model
+- Debugged real integration issues: payload shape mismatches, static file mounting, `predict_proba` errors, browser caching
+- Fully containerized (Python 3.10-slim, clean requirements, `.dockerignore`)
+
+`Python` `FastAPI` `Scikit-Learn` `Docker` `HTML/CSS/JS`
+
+### ??? Weather Forecasting App
+Deployed weather app with a clean, usable interface.
+?? [Live](https://shivanshforecast.netlify.app/)
+
+### ?? Anime Catalog App
+MyAnimeList-inspired browsing app.
+?? [Live](https://shivanshanimelist.netlify.app/)
+
+### ?? ML Predictor
+Streamlit-deployed ML prediction app.
+?? [Live](https://shivanshpredictor100.streamlit.app/)
+
+### ?? Student Academic Analytics
+Data pipeline and prediction project combining Pandas, SQL, and a FastAPI-served interface for exploring student performance data.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/NzyZQNFup) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_chrollo_lucilfer0_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivansh-acharya-59131932a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shivanshacharya52) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/acharyaishu682) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanshacharya52@gmail.com) 
